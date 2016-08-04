@@ -1,0 +1,29 @@
+_repo: A-Millionaire-of-Rough-and-Ready_2280
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: Here are two of Harte's finest, from 1886 and 1887. First, a gardener
+  for a small mining settlement is the one to strike it rich. Next, a small mining
+  town in Devil's Spur grows too quickly for the older inhabitants to bear.
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'California -- Social life and customs -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: A Millionaire of Rough-and-Ready
+url: http://www.gutenberg.org/ebooks/2280
