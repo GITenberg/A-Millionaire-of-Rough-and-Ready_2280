@@ -1,5 +1,8 @@
 _repo: A-Millionaire-of-Rough-and-Ready_2280
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -12,6 +15,8 @@ creator:
 description: Here are two of Harte's finest, from 1886 and 1887. First, a gardener
   for a small mining settlement is the one to strike it rich. Next, a small mining
   town in Devil's Spur grows too quickly for the older inhabitants to bear.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2280#A-Millionaire-of-Rough-and-Ready
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
